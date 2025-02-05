@@ -2,7 +2,7 @@
 
 ## Liste de logiciels et de VST utilisés par ce projet:
 
-### Logiciels: 
+### Logiciel: 
 - [Ableton Live 12 Suite](https://www.ableton.com/en/shop/live/)
 
 ### VST:
